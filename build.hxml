@@ -1,0 +1,20 @@
+# Set the class path
+--class-path src
+QuickSort
+# henryquan.QuickSort
+
+
+# Enable full dead code elimination
+# --dce full
+# Specify the output file and target language
+# --js bin/output.js
+# --cpp bin/output.cpp
+# --python bin/main.py
+# --java bin/output.java
+# --php bin/output.php
+# --cs bin/output.cs
+# -lib hxcs
+# --jvm java/sort.jar
+
+# Define the main class
+# --main Main

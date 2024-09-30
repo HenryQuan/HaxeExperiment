@@ -1,0 +1,3 @@
+--class-path src
+QuickSort
+--js js/sort.js

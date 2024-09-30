@@ -1,0 +1,3 @@
+--class-path src
+QuickSort
+--python python/sort.py

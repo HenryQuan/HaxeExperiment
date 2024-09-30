@@ -1,0 +1,4 @@
+--class-path src
+QuickSort
+-lib hxcs
+--cs cs/sort

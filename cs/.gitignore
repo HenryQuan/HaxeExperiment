@@ -1,0 +1,13 @@
+# visual studio files
+.vs
+bin
+obj
+
+# haxe files
+cs
+haxe
+Array.cs
+Reflect.cs
+Std.cs
+Type.cs
+hxcs_build.txt
